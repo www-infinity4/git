@@ -76,3 +76,4 @@ To deploy manually via GitHub Actions, navigate to the **Actions** tab and run t
 ## License
 
 MIT
+<script src="https://www-infinity4.github.io/Mint-For-Infinity/infinity-wallet-menu.js" defer></script>
